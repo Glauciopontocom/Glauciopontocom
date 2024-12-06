@@ -31,5 +31,5 @@ O desafio de criar algo 'natty' com IA foi uma experiência enriquecedora, demon
 Espero que tenha gostado do template! Se precisar de mais alguma coisa ou tiver dúvidas, estou aqui para ajudar. 🚀
 
 Link interessante
-https://galois.com/blog/2023/02/ai-and-trust
+https://galois.com/blog/2023/02/ai-and-trust (usei o tradutor)
 
