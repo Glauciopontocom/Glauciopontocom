@@ -29,3 +29,7 @@ Conteúdo textual refinado: Desenvolvido com o auxílio do Copilot para garantir
 O desafio de criar algo 'natty' com IA foi uma experiência enriquecedora, demonstrando que, com as ferramentas certas, é possível alcançar resultados surpreendentes. A criatividade humana, aliada ao poder das IAs, abre novas possibilidades no campo da arte e da tecnologia.
 
 Espero que tenha gostado do template! Se precisar de mais alguma coisa ou tiver dúvidas, estou aqui para ajudar. 🚀
+
+Link interessante
+https://galois.com/blog/2023/02/ai-and-trust
+
