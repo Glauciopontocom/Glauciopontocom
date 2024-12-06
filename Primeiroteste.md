@@ -1,7 +1,8 @@
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Este projeto foi criado com a intenção de explorar as capacidades das IAs generativas, criando conteúdo esteticamente agradável e inovador. Ao longo do processo, utilizamos diferentes ferramentas de IA para atingir esse objetivo.
+O projeto visa explorar as capacidades das IAs generativas para criar conteúdo estético e inovador, utilizando diversas ferramentas de IA.
+
 
 ## 🤖 Tecnologias Utilizadas
 Copilot: Assistente de IA da Microsoft utilizado para brainstorming e geração de ideias.
